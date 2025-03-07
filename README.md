@@ -21,7 +21,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevHawkNov"></img>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevHawkNov)](https://github.com/DevHawkNov/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=DevHawkNov)]
 
 **📫 How to Reach me:**
 <p align="left">
