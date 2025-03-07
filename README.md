@@ -7,10 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-![DevHawkNov's github activity graph](https://raw.githubusercontent.com/DevHawkNov/DevHawkNov/output/github-contribution-grid-snake.svg)
+### 📈 GitHub Activity:
 <!--   stats + languages -->
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
