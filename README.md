@@ -23,10 +23,6 @@
 
 [![trophy](https://github-trophies.vercel.app/?username=DevHawkNov)](https://github-trophies.vercel.app/?username=DevHawkNov)
 
-**📫 How to Reach me:**
-<p align="left">
-<a href="mailto:eaglecrest.mark@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/DevHawkNov/DevHawkNov/main/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-</p>
 
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
